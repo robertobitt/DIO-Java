@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DIO.iml" filepath="$PROJECT_DIR$/.idea/DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercícios Classes e Encapsulamento/Exercícios Classes e Encapsulamento.iml" filepath="$PROJECT_DIR$/Exercícios Classes e Encapsulamento/Exercícios Classes e Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca e Polimorfismo/Heranca e Polimorfismo.iml" filepath="$PROJECT_DIR$/Heranca e Polimorfismo/Heranca e Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Records/Records.iml" filepath="$PROJECT_DIR$/Records/Records.iml" />
+    </modules>
+  </component>
+</project>
